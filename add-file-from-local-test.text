@@ -5,3 +5,4 @@
 在本地branch-2-from-main分支上进行修改。
 在本地branch-1-from-main分支上进行修改，在提交前切换到其他分支。
 在本地branch-2-from-main分支上进行修改，测试本地ssh key值是否配置正常。
+在本地branch-2-from-main分支上进行修改,检测分支的创建规则。
